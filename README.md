@@ -1,5 +1,5 @@
 # PythonHtmltoPdf
 
-#install GTK3 for HTML to PDF
+# install GTK3 for HTML to PDF
 
-#install wkhtml for HTML to Images
+# install wkhtml for HTML to Images
